@@ -28,24 +28,24 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 
 | Day | Problem | Topic | Difficulty |
 |-----|---------|-------|------------|
-| [Day 001](./Day_001/) | [Container With Most Water](./Day_001/container_most_water.cpp) | Two Pointers / Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 001](./Day_001/) | [Pair Sum in Sorted Rotated Array](./Day_001/pair_sum_sorted_rotated_array.cpp) | Two Pointers / Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 002](./Day_002/) | [K Largest Element in Array](./Day_002/k_largest_element_array.cpp) | Sorting / Heap | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 002](./Day_002/) | [K Smallest Element in Array](./Day_002/k_smallest_element_array.cpp) | Sorting / Heap | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 003](./Day_003/) | [Search in Rotated Sorted Array](./Day_003/search_rotated_sorted_array.cpp) | Binary Search | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 004](./Day_004/) | [Min in Rotated Sorted Array](./Day_004/min_rotated_sorted_array.cpp) | Binary Search | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 005](./Day_005/) | [Next Permutation](./Day_005/next_permutation_array.cpp) | Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 006](./Day_006/) | [Product of Array Except Self](./Day_006/product_array_except_self.cpp) | Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 007](./Day_007/) | [Min Changes to Alternate Binary String](./Day_007/min_changes_alt_binary_string.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 008](./Day_008/) | [Check Atmost One Segment of Ones](./Day_008/check_atmost_one_segment_ones.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 008](./Day_008/) | [Max Product Subarray](./Day_008/max_product_subarray.cpp) | Arrays / DP | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 009](./Day_009/) | [Min Flips to Alternate Binary String](./Day_009/min_flips_alt_binary_string.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 010](./Day_010/) | [Unique Binary String](./Day_010/unique_binary_string.cpp) | Strings / Backtracking | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 011](./Day_011/) | [Single Number](./Day_011/single_number.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 012](./Day_012/) | [Plus One](./Day_012/plus_one.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 013](./Day_013/) | [Complement of Base 10 Integer](./Day_013/complement_base_10_integer.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 014](./Day_014/) | [Length of Last Word](./Day_014/length_last_word.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 015](./Day_015/) | [Majority Element](./Day_015/majority_element.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 001](https://github.com/CoderJap/DSA-Progress/tree/main/Day_001) | [Container With Most Water](https://github.com/CoderJap/DSA-Progress/blob/main/Day_001/container_most_water.cpp) | Two Pointers / Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 001](https://github.com/CoderJap/DSA-Progress/tree/main/Day_001) | [Pair Sum in Sorted Rotated Array](https://github.com/CoderJap/DSA-Progress/blob/main/Day_001/pair_sum_sorted_rotated_array.cpp) | Two Pointers / Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 002](https://github.com/CoderJap/DSA-Progress/tree/main/Day_002) | [K Largest Element in Array](https://github.com/CoderJap/DSA-Progress/blob/main/Day_002/k_largest_element_array.cpp) | Sorting / Heap | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 002](https://github.com/CoderJap/DSA-Progress/tree/main/Day_002) | [K Smallest Element in Array](https://github.com/CoderJap/DSA-Progress/blob/main/Day_002/k_smallest_element_array.cpp) | Sorting / Heap | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 003](https://github.com/CoderJap/DSA-Progress/tree/main/Day_003) | [Search in Rotated Sorted Array](https://github.com/CoderJap/DSA-Progress/blob/main/Day_003/search_rotated_sorted_array.cpp) | Binary Search | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 004](https://github.com/CoderJap/DSA-Progress/tree/main/Day_004) | [Min in Rotated Sorted Array](https://github.com/CoderJap/DSA-Progress/blob/main/Day_004/min_rotated_sorted_array.cpp) | Binary Search | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 005](https://github.com/CoderJap/DSA-Progress/tree/main/Day_005) | [Next Permutation](https://github.com/CoderJap/DSA-Progress/blob/main/Day_005/next_permutation_array.cpp) | Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 006](https://github.com/CoderJap/DSA-Progress/tree/main/Day_006) | [Product of Array Except Self](https://github.com/CoderJap/DSA-Progress/blob/main/Day_006/product_array_except_self.cpp) | Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 007](https://github.com/CoderJap/DSA-Progress/tree/main/Day_007) | [Min Changes to Alternate Binary String](https://github.com/CoderJap/DSA-Progress/blob/main/Day_007/min_changes_alt_binary_string.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 008](https://github.com/CoderJap/DSA-Progress/tree/main/Day_008) | [Check Atmost One Segment of Ones](https://github.com/CoderJap/DSA-Progress/blob/main/Day_008/check_atmost_one_segment_ones.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 008](https://github.com/CoderJap/DSA-Progress/tree/main/Day_008) | [Max Product Subarray](https://github.com/CoderJap/DSA-Progress/blob/main/Day_008/max_product_subarray.cpp) | Arrays / DP | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 009](https://github.com/CoderJap/DSA-Progress/tree/main/Day_009) | [Min Flips to Alternate Binary String](https://github.com/CoderJap/DSA-Progress/blob/main/Day_009/min_flips_alt_binary_string.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 010](https://github.com/CoderJap/DSA-Progress/tree/main/Day_010) | [Unique Binary String](https://github.com/CoderJap/DSA-Progress/blob/main/Day_010/unique_binary_string.cpp) | Strings / Backtracking | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 011](https://github.com/CoderJap/DSA-Progress/tree/main/Day_011) | [Single Number](https://github.com/CoderJap/DSA-Progress/blob/main/Day_011/single_number.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 012](https://github.com/CoderJap/DSA-Progress/tree/main/Day_012) | [Plus One](https://github.com/CoderJap/DSA-Progress/blob/main/Day_012/plus_one.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 013](https://github.com/CoderJap/DSA-Progress/tree/main/Day_013) | [Complement of Base 10 Integer](https://github.com/CoderJap/DSA-Progress/blob/main/Day_013/complement_base_10_integer.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 014](https://github.com/CoderJap/DSA-Progress/tree/main/Day_014) | [Length of Last Word](https://github.com/CoderJap/DSA-Progress/blob/main/Day_014/length_last_word.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 015](https://github.com/CoderJap/DSA-Progress/tree/main/Day_015) | [Majority Element](https://github.com/CoderJap/DSA-Progress/blob/main/Day_015/majority_element.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | Day 016 | *(coming soon)* | — | — |
 | Day 017 | *(coming soon)* | — | — |
 | Day 018 | *(coming soon)* | — | — |
