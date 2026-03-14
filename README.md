@@ -46,7 +46,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 013](https://github.com/CoderJap/DSA-Progress/tree/main/Day_013) | [Complement of Base 10 Integer](https://github.com/CoderJap/DSA-Progress/blob/main/Day_013/complement_base_10_integer.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 014](https://github.com/CoderJap/DSA-Progress/tree/main/Day_014) | [Length of Last Word](https://github.com/CoderJap/DSA-Progress/blob/main/Day_014/length_last_word.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 015](https://github.com/CoderJap/DSA-Progress/tree/main/Day_015) | [Majority Element](https://github.com/CoderJap/DSA-Progress/blob/main/Day_015/majority_element.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| Day 016 | *(coming soon)* | — | — |
+| [Day 016](https://github.com/CoderJap/DSA-Progress/tree/main/Day_016) | [Valid Anagram](https://github.com/CoderJap/DSA-Progress/blob/main/Day_016/valid_anagram.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | Day 017 | *(coming soon)* | — | — |
 | Day 018 | *(coming soon)* | — | — |
 | Day 019 | *(coming soon)* | — | — |
