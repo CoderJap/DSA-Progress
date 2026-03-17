@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-21-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-23-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-18-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-19-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -48,8 +48,9 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 015](https://github.com/CoderJap/DSA-Progress/tree/main/Day_015) | [Majority Element](https://github.com/CoderJap/DSA-Progress/blob/main/Day_015/majority_element.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 016](https://github.com/CoderJap/DSA-Progress/tree/main/Day_016) | [Valid Anagram](https://github.com/CoderJap/DSA-Progress/blob/main/Day_016/valid_anagram.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 017](https://github.com/CoderJap/DSA-Progress/tree/main/Day_017) | [Longest Palindrome](https://github.com/CoderJap/DSA-Progress/blob/main/Day_017/longest_palindrome.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 018](https://github.com/CoderJap/DSA-Progress/tree/main/Day_018) | [Valid Palindrome](https://github.com/CoderJap/DSA-Progress/blob/main/Day_017/valid_palindrome.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| Day 019 | *(coming soon)* | — | — |
+| [Day 018](https://github.com/CoderJap/DSA-Progress/tree/main/Day_018) | [Valid Palindrome](https://github.com/CoderJap/DSA-Progress/blob/main/Day_018/valid_palindrome.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 019](https://github.com/CoderJap/DSA-Progress/tree/main/Day_019) | [Valid Paranthesis](https://github.com/CoderJap/DSA-Progress/blob/main/Day_019/valid_paranthesis.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 019](https://github.com/CoderJap/DSA-Progress/tree/main/Day_019) | [Remove Consecutive Characters](https://github.com/CoderJap/DSA-Progress/blob/main/Day_019/remove_consecutive_characters.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | Day 020 | *(coming soon)* | — | — |
 
 ---
@@ -105,8 +106,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 18
-Total Problems: 21
+Total Days    : 19
+Total Problems: 23
 Streak        : 🔥 Active
 ```
 
