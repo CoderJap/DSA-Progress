@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-25-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-26-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-21-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-22-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -53,6 +53,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 019](https://github.com/CoderJap/DSA-Progress/tree/main/Day_019) | [Remove Consecutive Characters](https://github.com/CoderJap/DSA-Progress/blob/main/Day_019/remove_consecutive_characters.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 020](https://github.com/CoderJap/DSA-Progress/tree/main/Day_020) | [Longest Common Prefix](https://github.com/CoderJap/DSA-Progress/blob/main/Day_020/longest_common_prefix.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 021](https://github.com/CoderJap/DSA-Progress/tree/main/Day_021) | [Longest substring without repeating characters](https://github.com/CoderJap/DSA-Progress/blob/main/Day_021/longest_substr_without_repeating_char.cpp) | Strings | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 022](https://github.com/CoderJap/DSA-Progress/tree/main/Day_022) | [Longest palindromic substring](https://github.com/CoderJap/DSA-Progress/blob/main/Day_022/longest_palindromic_substring.cpp) | Strings | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 
 
 ---
