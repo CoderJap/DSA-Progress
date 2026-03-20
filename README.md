@@ -109,8 +109,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 21
-Total Problems: 25
+Total Days    : 22
+Total Problems: 26
 Streak        : 🔥 Active
 ```
 
