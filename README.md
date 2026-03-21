@@ -54,6 +54,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 020](https://github.com/CoderJap/DSA-Progress/tree/main/Day_020) | [Longest Common Prefix](https://github.com/CoderJap/DSA-Progress/blob/main/Day_020/longest_common_prefix.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 021](https://github.com/CoderJap/DSA-Progress/tree/main/Day_021) | [Longest substring without repeating characters](https://github.com/CoderJap/DSA-Progress/blob/main/Day_021/longest_substr_without_repeating_char.cpp) | Strings | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 022](https://github.com/CoderJap/DSA-Progress/tree/main/Day_022) | [Longest palindromic substring](https://github.com/CoderJap/DSA-Progress/blob/main/Day_022/longest_palindromic_substring.cpp) | Strings | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 023](https://github.com/CoderJap/DSA-Progress/tree/main/Day_023) | [ Palindromic substring](https://github.com/CoderJap/DSA-Progress/blob/main/Day_023/palindromic_substring.cpp) | Strings | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 
 
 ---
