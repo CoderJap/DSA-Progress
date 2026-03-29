@@ -63,6 +63,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 028](https://github.com/CoderJap/DSA-Progress/tree/main/Day_028) | [ Set matrix zeroes ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_028/set_matrix_zeroes.cpp) | 2d Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square)  |
 | [Day 029](https://github.com/CoderJap/DSA-Progress/tree/main/Day_029) | [ Spiral Matrix ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_029/spiral_matrix.cpp) | 2d Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square)  |
 | [Day 030](https://github.com/CoderJap/DSA-Progress/tree/main/Day_030) | [ Add binary ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_030/add_binary.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square)  |
+| [Day 031](https://github.com/CoderJap/DSA-Progress/tree/main/Day_031) | [ Check if Strings Can be Made Equal With Operations I](https://github.com/CoderJap/DSA-Progress/blob/main/Day_031/check_string_equal_opr_1.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square)  |
 
 ---
 
