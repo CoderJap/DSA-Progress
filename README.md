@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-42-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-43-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-37-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-38-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -70,6 +70,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 035](https://github.com/CoderJap/DSA-Progress/tree/main/Day_035) | [Convert Binary Number in a Linked List to Integer ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_035/convert_binary_no_list_integer.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square)  |
 | [Day 036](https://github.com/CoderJap/DSA-Progress/tree/main/Day_036) | [ Word Search ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_036/word_search.cpp) | 2D Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 037](https://github.com/CoderJap/DSA-Progress/tree/main/Day_037) | [ Rotate Image ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_037/rotate_search.cpp) | 2D Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 038](https://github.com/CoderJap/DSA-Progress/tree/main/Day_037) | [ Robot move to origin ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_037/rotate_search.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 ---
 
@@ -124,8 +125,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 37
-Total Problems: 42
+Total Days    : 38
+Total Problems: 43
 Streak        : 🔥 Active
 ```
 
