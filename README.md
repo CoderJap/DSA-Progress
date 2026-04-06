@@ -70,7 +70,8 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 035](https://github.com/CoderJap/DSA-Progress/tree/main/Day_035) | [Convert Binary Number in a Linked List to Integer ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_035/convert_binary_no_list_integer.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square)  |
 | [Day 036](https://github.com/CoderJap/DSA-Progress/tree/main/Day_036) | [ Word Search ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_036/word_search.cpp) | 2D Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 037](https://github.com/CoderJap/DSA-Progress/tree/main/Day_037) | [ Rotate Image ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_037/rotate_search.cpp) | 2D Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
-| [Day 038](https://github.com/CoderJap/DSA-Progress/tree/main/Day_037) | [ Robot move to origin ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_037/rotate_search.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 038](https://github.com/CoderJap/DSA-Progress/tree/main/Day_038) | [ Robot move to origin ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_038/robot_move_to_origin.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 039](https://github.com/CoderJap/DSA-Progress/tree/main/Day_039) | [ Max Depth of Binary Tree ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_039/max_depth_binary_tree.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 ---
 
