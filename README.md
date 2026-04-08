@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-45-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-46-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-40-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-41-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -72,7 +72,8 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 037](https://github.com/CoderJap/DSA-Progress/tree/main/Day_037) | [ Rotate Image ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_037/rotate_search.cpp) | 2D Arrays | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 038](https://github.com/CoderJap/DSA-Progress/tree/main/Day_038) | [ Robot move to origin ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_038/robot_move_to_origin.cpp) | Strings | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 039](https://github.com/CoderJap/DSA-Progress/tree/main/Day_039) | [ Max Depth of Binary Tree ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_039/max_depth_binary_tree.cpp) | Tree | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
-| [Day 040](https://github.com/CoderJap/DSA-Progress/tree/main/Day_040) | [ Happy Number ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_040/max_depth_binary_tree.cpp) | Arrays | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 040](https://github.com/CoderJap/DSA-Progress/tree/main/Day_040) | [ Happy Number ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_040/max_depth_binary_tree.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 041](https://github.com/CoderJap/DSA-Progress/tree/main/Day_041) | [ Next Greater Element I ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_041/next_greater_element_1.cpp) | Stacks | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 ---
 
@@ -127,8 +128,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 40
-Total Problems: 45
+Total Days    : 41
+Total Problems: 46
 Streak        : 🔥 Active
 ```
 
