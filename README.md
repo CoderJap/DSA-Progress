@@ -75,6 +75,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 040](https://github.com/CoderJap/DSA-Progress/tree/main/Day_040) | [ Happy Number ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_040/max_depth_binary_tree.cpp) | Bit Manipulation | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 041](https://github.com/CoderJap/DSA-Progress/tree/main/Day_041) | [ Next Greater Element I ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_041/next_greater_element_1.cpp) | Stacks | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 042](https://github.com/CoderJap/DSA-Progress/tree/main/Day_042) | [ N-ary Tree Preorder Traversal ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_042/n_ary_tree_preorder_traversal.cpp) | Tree| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 043](https://github.com/CoderJap/DSA-Progress/tree/main/Day_043) | [ Implement Queue using Stacks ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_043/implement_queue_using_stack.cpp) | Tree| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 ---
 
