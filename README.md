@@ -2,7 +2,7 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-49-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-50-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
 ![Days Completed](https://img.shields.io/badge/Days%20Completed-44-blueviolet?style=for-the-badge)
@@ -77,6 +77,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 042](https://github.com/CoderJap/DSA-Progress/tree/main/Day_042) | [ N-ary Tree Preorder Traversal ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_042/n_ary_tree_preorder_traversal.cpp) | Tree| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 043](https://github.com/CoderJap/DSA-Progress/tree/main/Day_043) | [ Implement Queue using Stacks ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_043/implement_queue_using_stack.cpp) | Stack| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 044](https://github.com/CoderJap/DSA-Progress/tree/main/Day_044) | [ Delete nodes having greater value on right ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_044/delete_nodes_greater_value_on_right.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 044](https://github.com/CoderJap/DSA-Progress/tree/main/Day_044) | [ Intersection of Two Linked Lists ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_044/intersection_two_linked_list.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 ---
 
@@ -132,7 +133,7 @@ g++ -o solution Day_001/container_most_water.cpp
 
 ```
 Total Days    : 44
-Total Problems: 49
+Total Problems: 50
 Streak        : 🔥 Active
 ```
 
