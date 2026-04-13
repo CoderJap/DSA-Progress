@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-51-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-52-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-45-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-46-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -79,6 +79,8 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 044](https://github.com/CoderJap/DSA-Progress/tree/main/Day_044) | [ Delete nodes having greater value on right ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_044/delete_nodes_greater_value_on_right.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 044](https://github.com/CoderJap/DSA-Progress/tree/main/Day_044) | [ Intersection of Two Linked Lists ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_044/intersection_two_linked_list.cpp) | Linked List| ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 | [Day 045](https://github.com/CoderJap/DSA-Progress/tree/main/Day_045) | [ Delete Node in a Linked List ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_045/delete_node_linked_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+| [Day 046](https://github.com/CoderJap/DSA-Progress/tree/main/Day_046) | [ Remove Nth node from end of list ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_046/remove_nth_node_from_end_of_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
+
 
 ---
 
@@ -133,8 +135,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 45
-Total Problems: 51
+Total Days    : 46
+Total Problems: 52
 Streak        : 🔥 Active
 ```
 
