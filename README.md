@@ -2,10 +2,10 @@
 
 # 🧠 DSA Practice — Daily Grind
 
-![Problems Solved](https://img.shields.io/badge/Problems%20Solved-54-brightgreen?style=for-the-badge)
+![Problems Solved](https://img.shields.io/badge/Problems%20Solved-55-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=cplusplus)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)
-![Days Completed](https://img.shields.io/badge/Days%20Completed-48-blueviolet?style=for-the-badge)
+![Days Completed](https://img.shields.io/badge/Days%20Completed-49-blueviolet?style=for-the-badge)
 
 > *"The only way to get better at DSA is to solve one problem at a time — every single day."*
 
@@ -82,6 +82,7 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 046](https://github.com/CoderJap/DSA-Progress/tree/main/Day_046) | [ Remove Nth node from end of list ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_046/remove_nth_node_from_end_of_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 047](https://github.com/CoderJap/DSA-Progress/tree/main/Day_047) | [ Reorder List ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_047/reorder_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 048](https://github.com/CoderJap/DSA-Progress/tree/main/Day_048) | [ Merge K Sorted Lists ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_048/merge_k_sorted_lists.cpp) | Linked List | ![Hard](https://img.shields.io/badge/Hard-E53935?style=flat-square) |
+| [Day 049](https://github.com/CoderJap/DSA-Progress/tree/main/Day_049) | [ Subtree of Another Tree ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_048/subtree_of_another_tree.cpp) | Tree | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
 
 
 ---
@@ -137,8 +138,8 @@ g++ -o solution Day_001/container_most_water.cpp
 ## 📈 Stats
 
 ```
-Total Days    : 48
-Total Problems: 54
+Total Days    : 49
+Total Problems: 55
 Streak        : 🔥 Active
 ```
 
