@@ -82,7 +82,8 @@ This repository is my personal **day-by-day DSA (Data Structures & Algorithms)**
 | [Day 046](https://github.com/CoderJap/DSA-Progress/tree/main/Day_046) | [ Remove Nth node from end of list ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_046/remove_nth_node_from_end_of_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 047](https://github.com/CoderJap/DSA-Progress/tree/main/Day_047) | [ Reorder List ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_047/reorder_list.cpp) | Linked List | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 | [Day 048](https://github.com/CoderJap/DSA-Progress/tree/main/Day_048) | [ Merge K Sorted Lists ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_048/merge_k_sorted_lists.cpp) | Linked List | ![Hard](https://img.shields.io/badge/Hard-E53935?style=flat-square) |
-| [Day 049](https://github.com/CoderJap/DSA-Progress/tree/main/Day_049) | [ Subtree of Another Tree ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_048/subtree_of_another_tree.cpp) | Tree | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 049](https://github.com/CoderJap/DSA-Progress/tree/main/Day_049) | [ Subtree of Another Tree ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_048/subtree_of_another_tree.cpp) | Binary Tree | ![Easy](https://img.shields.io/badge/Easy-00b300?style=flat-square) |
+| [Day 050](https://github.com/CoderJap/DSA-Progress/tree/main/Day_050) | [ Binary Tree Level Order Traversal ](https://github.com/CoderJap/DSA-Progress/blob/main/Day_047/level_order_tree_traversal.cpp) | Binary Tree | ![Medium](https://img.shields.io/badge/Medium-FFA500?style=flat-square) |
 
 
 ---
